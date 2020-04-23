@@ -92,8 +92,8 @@
 /* Type */
 
 	body {
-		background-color: #f4f4f4;
-		color: #666666;
+		background-color: #DCDCDC;
+		color: #111111;
 	}
 
 	body, input, select, textarea {
@@ -150,6 +150,7 @@
 
 	p {
 		margin: 0 0 2em 0;
+		font-size: 1.3em;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -286,11 +287,11 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #444444;
+		color: #111111;
 	}
 
 	blockquote {
-		border-left-color: #666666;
+		border-left-color: #000000;
 	}
 
 	code {
@@ -422,7 +423,7 @@
 	.button {
 		background-color: transparent;
 		box-shadow: inset 0 0 0 2px #666666;
-		color: #444444 !important;
+		color: #111111 !important;
 	}
 
 		input[type="submit"]:hover,
@@ -1048,7 +1049,7 @@
 
 	.item {
 		padding: 3em 3em 1em 3em;
-		background-color: #ffffff;
+		background-color: #DCDCDC;
 		border-radius: 4px;
 		text-align: center;
 	}
@@ -1071,7 +1072,7 @@
 			-webkit-justify-content: center;
 			-ms-justify-content: center;
 			justify-content: center;
-			background-color: #444;
+			background-color: #FFFFFF;
 			color: rgba(255, 255, 255, 0.75);
 			position: relative;
 			overflow: hidden;
@@ -1440,7 +1441,7 @@
 
 	#main {
 		padding: 4em 4em 2em 4em;
-		background-color: #ffffff;
+		background-color: #000000;
 		border-radius: 4px;
 	}
 
@@ -1468,7 +1469,7 @@
 
 	#intro {
 		padding: 4em 4em 2em 4em;
-		background-color: #ffffff;
+		background-color: #DCDCDC;
 		border-radius: 4px;
 		text-align: center;
 	}
@@ -1536,7 +1537,7 @@
 			display: inline-block;
 			width: 6em;
 			height: 2px;
-			background-color: #666666;
+			background-color: #404040;
 			margin-bottom: 4em;
 		}
 
